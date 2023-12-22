@@ -3,5 +3,8 @@
    <feature url="features/promyzeEclipsePlugin_2.5.0.jar" id="promyzeEclipsePlugin" version="2.5.0">
       <category name="Promyze"/>
    </feature>
+   <feature url="features/promyzeEclipsePlugin_2.5.1.jar" id="promyzeEclipsePlugin" version="2.5.1">
+      <category name="Promyze"/>
+   </feature>
    <category-def name="Promyze" label="Promyze"/>
 </site>
